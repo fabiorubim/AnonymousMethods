@@ -1,4 +1,4 @@
-program MetodosAnonimos;
+program AnonymousMethods;
 
 uses
   Vcl.Forms,
